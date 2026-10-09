@@ -132,7 +132,7 @@ This project helped me practice:
 
 **Amir Hafez**
 
-GitHub: **HfezNexus**
+GitHub: **HafezNexus**
 
 ---
 
